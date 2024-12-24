@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (Release\) contient des fichiers partagés provenant d'un autre projet (BaseMod.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  BaseMod.cpp
+     Création de la bibliothèque C:\Users\qtdou\Documents\Mezelounge\Player-informations\Release\PlayerInfos.lib et de l'objet C:\Users\qtdou\Documents\Mezelounge\Player-informations\Release\PlayerInfos.exp
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  Génération de code en cours
+  41 of 826 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BaseMod.vcxproj -> C:\Users\qtdou\Documents\Mezelounge\Player-informations\Release\PlayerInfos.dll
