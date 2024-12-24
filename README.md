@@ -1,4 +1,4 @@
-# Player-informations for (Pax's MHFZ Mod Loader)[https://github.com/Paxlord/Pax-Mhfz-Loader]
+# Player-informations for [Pax's MHFZ Mod Loader](https://github.com/Paxlord/Pax-Mhfz-Loader)
 This repo is meant to act as a mod template and documentation for my mod loader.
 
 ## Requirements
